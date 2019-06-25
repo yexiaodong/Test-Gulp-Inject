@@ -1,0 +1,27 @@
+{
+  "name": "yexd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yexiaodong/Test-Gulp-Inject.git"
+  },
+  "keywords": [
+    "123456789"
+  ],
+  "author": "yexiaodong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yexiaodong/Test-Gulp-Inject/issues"
+  },
+  "homepage": "https://github.com/yexiaodong/Test-Gulp-Inject#readme",
+  "devDependencies": {
+    "event-stream": "^4.0.1",
+    "gulp": "^4.0.2",
+    "gulp-inject": "^5.0.2"
+  }
+}
